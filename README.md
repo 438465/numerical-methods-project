@@ -10,3 +10,6 @@ Where:
 - β is the viral spread rate
 - γ is the forgetting rate
 Project status: initial model definition completed.
+## How to Run
+Run the script with:
+python main.py
