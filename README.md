@@ -13,3 +13,5 @@ Project status: initial model definition completed.
 ## How to Run
 Run the script with:
 python main.py
+## Output
+![SIR Simulation](sir_plot.png)
